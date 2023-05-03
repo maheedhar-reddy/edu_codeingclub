@@ -1,0 +1,31 @@
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .premeyam-btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  .premeyam-btn:hover {
+    background-color: #3e8e41;
+  }
+  h1,h2{
+    font-family:'Times New Roman', Times, serif;
+  }
+  body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNAeRKxHK0lqFYZlR7cbPuRf0EetWWCKIGBn9EhOPiXBLv0eTQSeOpbbceFpdTSRy4bc&usqp=CAU");
+    background-size: cover;
+  }
